@@ -1,2 +1,2 @@
-# DHP_PatternMiner
-A program which finds patterns in large datasets. Allows the user to search for commonly grouped items using the DHP algorithm.
+# Agent Survival Simulation
+Made as a university term project for a agent-oriented programming course. Using the JASON interpreter our team of two made a village simulation with agents collecting plants while competing against herbivores.
