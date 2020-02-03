@@ -1,0 +1,14 @@
+MAS cpsc475TermProject {
+
+
+infrastructure: Centralised
+
+	environment: World
+
+	agents:
+		villager #3;
+		herbivore #3;
+
+	aslSourcePath:
+		"src/asl";
+}
